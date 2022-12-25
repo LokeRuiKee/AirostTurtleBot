@@ -1,0 +1,2 @@
+openni_tracker
+-DCATKIN_DEVEL_PREFIX=/home/ruikee/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ruikee/catkin_ws/install -G Unix Makefiles
